@@ -8,7 +8,7 @@
 <img width="617" height="883" alt="image" src="https://github.com/user-attachments/assets/c381e380-b171-4222-98fa-6277a798b918" />
 <img width="621" height="883" alt="image" src="https://github.com/user-attachments/assets/f5d1aeb8-d6a9-4191-a133-507dd18a59ac" />
 
-A new Flutter project.
+Interactive Shopping App UI in Flutter — clickable product cards, Google Nav Bar integration, and smooth page navigation.
 
 ## Getting Started
 
