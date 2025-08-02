@@ -1,2 +1,4 @@
-
-*.dart linguist-language=Dart
+* linguist-language=Dart
+git add .gitattributes
+git commit -m "Force GitHub to show Dart as main language"
+git push
