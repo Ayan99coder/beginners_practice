@@ -1,7 +1,7 @@
 # instagram_following
 
-A new Flutter project.
-
+<img width="621" height="590" alt="image" src="https://github.com/user-attachments/assets/596a7292-3cb5-4af0-a2ac-3ca40b66d522" />
+Instagram-style Following List UI in Flutter — clean, minimal, and interactive.
 ## Getting Started
 
 This project is a starting point for a Flutter application.

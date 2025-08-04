@@ -1,7 +1,10 @@
 # profile_ui_design
 
-A new Flutter project.
 
+
+A new Flutter project.<img width="623" height="887" alt="profile image" src="https://github.com/user-attachments/assets/4ea06266-6cba-4662-a533-57de98077e80" />
+
+A sleek and modern Profile UI design built with Flutter, featuring integrated links to Facebook, Instagram, GitHub, and LinkedIn profiles. The layout focuses on simplicity and accessibility, allowing users to quickly connect through interactive social media buttons
 ## Getting Started
 
 This project is a starting point for a Flutter application.

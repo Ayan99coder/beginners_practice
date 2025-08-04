@@ -1,6 +1,9 @@
 # chess_board_ui_design
 
-A new Flutter project.
+<img width="601" height="697" alt="chessboard" src="https://github.com/user-attachments/assets/4b564d59-1608-4584-886e-109bc1dbacdc" />
+
+
+A clean and modern Chess Game UI design created in Flutter. This project focuses purely on the visual layout of the chessboard and pieces, providing an elegant and responsive design that can be used as the foundation for a complete chess application.
 
 ## Getting Started
 
