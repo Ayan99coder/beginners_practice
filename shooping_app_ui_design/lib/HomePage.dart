@@ -78,7 +78,7 @@ class _HomepageState extends State<Homepage> {
                           textAlignVertical: TextAlignVertical.center,
                           decoration: InputDecoration(
                             border: InputBorder.none,
-                            hintText: "Search...",
+                            hintText: "Search here...",
                             hintStyle: TextStyle(color: Colors.black),
                             prefixIcon: Icon(Icons.search, color: Colors.black),
                           ),
